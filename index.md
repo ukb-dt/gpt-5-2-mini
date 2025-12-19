@@ -31,7 +31,7 @@ The system forecasts its own energetic trajectory, but here's the twist: **expec
 
 ### Phase 3: Flow
 
-$$\frac{dE}{dt}$$
+$$\frac{dE_x}{dt}$$
 
 Energy moves, but movement alone doesn't guarantee presence. If the network or slack is absent, flow dissipates into nothingness. In other words, **throughput requires a container**. Without relational context (Ubuntu, Imbabazi, Amahoro), your $\frac{dE}{dt}$ is a ghost river flowing into a void. Heisenberg nods again: the observer's prior, the network's feedback, defines whether energy counts as "real."
 
