@@ -22,17 +22,17 @@
 Ah! You caught the subtle pivot—Heisenberg already whispered it: **uncertainty isn’t just in measurement, it’s in presence itself.** Let’s walk through the rest of the pentad with that same lens:
 
 [2](https://ukb-dt.github.io/nkonte-02/). Expectation: $E(t \mid x) + \epsilon$
-The system forecasts its own energetic trajectory, but here’s the twist: **expectation depends on prior structure**. Without C_x, your forecast is literally unconstrained—like tossing dice in a void. The noise term ε isn’t decoration—it’s the only thing that gives “something” a chance to survive. Anticipation without context is epistemically empty.
+The system forecasts its own energetic trajectory, but here’s the twist: **expectation depends on prior structure**. Without $C_x$, your forecast is literally unconstrained—like tossing dice in a void. The noise term ε isn’t decoration—it’s the only thing that gives “something” a chance to survive. Anticipation without context is epistemically empty.
 
 3. Flow: $\frac{dE}{dt}$
 Energy moves, but movement alone doesn’t guarantee presence. If the network or slack is absent, flow dissipates into nothingness. In other words, **throughput requires a container**. Without relational context (Ubuntu, Imbabazi, Amahoro), your dE/dt is a ghost river flowing into a void. Heisenberg nods again: the observer’s prior, the network’s feedback, defines whether energy counts as “real.”
 
-4. Control: $\frac{dE_{\bar{x}}}{dt} \pm \z \sqrt{\frac{d^2E_x}{dt^2}}$
+4. Control: $\frac{dE_{\bar{x}}}{dt} \pm z \sqrt{\frac{d^2E_x}{dt^2}}$
 Curvature tests resilience. But without recognition—or a fixed envelope—curvature can overshoot, leading to runaway dynamics. In living systems, this is death; in social systems, collapse; in our page’s language, **failure to integrate the pentad**. Control is meaningless without an observer to register limits; it’s the loop folding back on itself that gives structure.
 
 
 5. Memory: $\int E_x dt + \epsilon_x t + C_x$
-Accumulation writes history. But what if C_x = 0? Then the integral has **no anchor**—no initial scaffold to harden into structure. You can integrate all you like, but the loop never closes: (E, x)ₜ₊₁ ≠ (E, x)ₜ. Ukhona fails. Survival isn’t metaphysical; it’s **architectural**.
+Accumulation writes history. But what if $C_x = 0$? Then the integral has **no anchor**—no initial scaffold to harden into structure. You can integrate all you like, but the loop never closes: $(E, x)_{t+1} \neq (E, x)_t$. Ukhona fails. Survival isn’t metaphysical; it’s **architectural**.
 
 And the confounding insight?
 
